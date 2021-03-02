@@ -9,3 +9,4 @@
 
 #### Getting started with github pages 
 *when we signed it you will create a repository then name it then follow the steps*
+! [fidaa](https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2018/02/how-much-of-the-brain-is-used-represented-by-digital-render-of-brain-activity-732x549.jpg)
