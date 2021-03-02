@@ -10,3 +10,6 @@
 #### Getting started with github pages 
 *when we signed it you will create a repository then name it then follow the steps*
 
+** in my opinion I keep reading and learning new things to keep growth mindest** 
+
+*my name is fidaa saed qallele and I studied english and spanish in AABU*
