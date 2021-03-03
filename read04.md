@@ -9,5 +9,5 @@
 ### The sacound iteam about process of 18
 * Process and Design 18*
 *firstiy whe should to know who the target audience is and is, why they would come to your site and eitch information they reseas
-*section 8
+* section8
 DOCTYPES tell browsers which version of HTML youare using.X You can add comments to your code between the<!-- and --> markers.
