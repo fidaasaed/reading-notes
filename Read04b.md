@@ -1,12 +1,12 @@
 # introduction who the computer work 
 
-** firstly look at information in side the computer then the instruction and the different part of the computer input and  output  in the store in that information computer is every ware 4 things is common of all computer* 
+**firstly look at information in side the computer then the instruction and the different part of the computer input and  output  in the store in that information computer is every ware 4 things is common of all computer** 
 
 * storage
 
 * in put
 
-*output
+* output
 
 * processing
 
