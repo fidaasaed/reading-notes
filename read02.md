@@ -1,6 +1,6 @@
 # the new object today is about *Git intro*  
 
-** it is made by a group of developers and it depends on basic data in this system it tracks changes of codes in 3 steps **
+**it is made by a group of developers and it depends on basic data in this system it tracks changes of codes in 3 steps**
 
 * A
 
@@ -12,11 +12,11 @@
 
 ### the codes which git hub include them in respectively :
 
-** git add .
+* git add .
 
-** git commit-m "   "
+* git commit-m "   "
 
-** git push origin main
+* git push origin main
 
  
-hklk
+Read:02b done
