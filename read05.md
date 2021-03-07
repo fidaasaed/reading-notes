@@ -1,4 +1,4 @@
-# java script and jquery
+# java script and jquery
 ## the second tip of  operators is : comparison operates.
 **it has comparison signs like (==, !, <,>,=) and every one of if has own function that effect on the data in java.**Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>)
 are used to compare two operands.** 
